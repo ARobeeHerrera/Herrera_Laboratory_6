@@ -2,8 +2,8 @@
 # Improve the following codes to implement SOLID principles in OOP.
 
 
-
-// public interface Order {
+```
+ // public interface Order {
 
   void calculateTotal(double price, int quantity);
 
@@ -53,7 +53,7 @@ public class OrderTest {
     order.sendEmailNotification("johndoe@example.com");
   }
 }
-
+```
 
 # UML Diagram
 
